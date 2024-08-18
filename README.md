@@ -60,7 +60,7 @@ SapiClient sapiClient = new SapiClient(accessKey,accessKey);
 
 这里以getRandomToxicSoups为例子 点击进入查看接口文档
 
-![image-20240818213324848](//assets/image-20240818213324848.png)
+![image-20240818213324848](/assets/image-20240818213324848.png)
 
 获取请求url 请求方法 请求参数等信息
 
